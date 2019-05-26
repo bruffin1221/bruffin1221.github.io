@@ -1,11 +1,11 @@
 # Site settings
 author: Bruce Ruffin
-title: 
+title: Better Coding, Better Me, Better You
 header-img: img/home-bg.png
 email: bruffin1221@gmail.com
 copyright_name: Bruce Ruffin
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Covers The Basic Of Coding and the Mindset of Learning It
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bruffin1221
