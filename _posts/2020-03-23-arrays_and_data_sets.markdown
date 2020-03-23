@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Arrays and Data Sets"
-date:       2020-03-23 22:48:03 +0000
+date:       2020-03-23 18:48:04 -0400
 permalink:  arrays_and_data_sets
 ---
 
